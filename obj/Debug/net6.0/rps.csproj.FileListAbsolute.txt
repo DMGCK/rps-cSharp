@@ -1,0 +1,15 @@
+C:\Users\camer\source\codeworks\csharp1\rps\bin\Debug\net6.0\rps.exe
+C:\Users\camer\source\codeworks\csharp1\rps\bin\Debug\net6.0\rps.deps.json
+C:\Users\camer\source\codeworks\csharp1\rps\bin\Debug\net6.0\rps.runtimeconfig.json
+C:\Users\camer\source\codeworks\csharp1\rps\bin\Debug\net6.0\rps.dll
+C:\Users\camer\source\codeworks\csharp1\rps\bin\Debug\net6.0\rps.pdb
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.csproj.AssemblyReference.cache
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.AssemblyInfoInputs.cache
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.AssemblyInfo.cs
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.csproj.CoreCompileInputs.cache
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.dll
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\refint\rps.dll
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.pdb
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\rps.genruntimeconfig.cache
+C:\Users\camer\source\codeworks\csharp1\rps\obj\Debug\net6.0\ref\rps.dll
